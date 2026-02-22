@@ -1,5 +1,4 @@
 # My-site.html
-A project for educational purposes
 <html>
 <head>
 The Power of Small Habits: How Tiny Changes Create Big Success
