@@ -3,7 +3,7 @@ A project for educational purposes
 <!DOCTYPE html> 
 <html>
 <head>
-<title>  The Power of Small Habits: How Tiny Changes Create Big Success </title>
+The Power of Small Habits: How Tiny Changes Create Big Success
 </head>
 <hr>
 <br>
@@ -21,7 +21,7 @@ A project for educational purposes
 
 <p> It is also important to be patient. Results may not appear immediately. Just like planting a seed, growth happens beneath the surface before it becomes visible. Trust the process. Improvement may feel slow, but it adds up faster than you think. </p>
 
-<p> In the end, success is not about one grand action. It is about the small decisions you make every day. Tiny habits, repeated consistently, shape your future. If you want to change your life, do not focus only on big goals. Focus on small steps — and let those steps lead you forward. </p>
+<p> In the end, success is not about one grand action. It is about the small decisions you make every day. Tiny habits, repeated consistently, shape your future. If you want to change your life, do not focus only on big goals. Focus on small steps and let those steps lead you forward. </p>
 
 <body> 
 <h1> By Mahinay and Lumbres from 7 - Aventurine <h1>
